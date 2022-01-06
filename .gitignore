@@ -24,3 +24,10 @@ hs_err_pid*
 /.gradle/
 /out/
 /build/
+/.idea/.gitignore
+/.idea/.name
+/.idea/compiler.xml
+/.idea/gradle.xml
+/.idea/jarRepositories.xml
+/.idea/misc.xml
+/.idea/vcs.xml
